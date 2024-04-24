@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713630342 source:c:\users\uefi\downloads\new folder\su-6\main.c
+	<stdio.h>
+
+1713631498 source:c:\users\uefi\downloads\new folder\su-6\zad1.c
+	<stdio.h>
+	<string.h>
+
+1713944096 source:c:\users\uefi\downloads\new folder\su-6\zad2.c
+	<stdio.h>
+
